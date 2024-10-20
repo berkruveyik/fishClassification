@@ -9,8 +9,7 @@ Bu proje, çeşitli balık türlerini sınıflandırmak için derin öğrenme mo
 - [Veri Seti](#veri-seti)
 - [Model Yapısı ve Karşılaşılan Problemler](#model-yapısı-ve-karşılaşılan-problemler)
 - [Performans ve Sonuçlar](#performans-ve-sonuçlar)
-- [Kurulum](#kurulum)
-- [Kullanım](#kullanım)
+
 
 
 ---
